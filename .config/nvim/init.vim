@@ -39,4 +39,4 @@ luafile ~/.config/nvim/lua/lsp/lsp-config.lua
 " Language Servers
 luafile ~/.config/nvim/lua/lsp/python-ls.lua
 luafile ~/.config/nvim/lua/lsp/java-ls.lua
-
+luafile ~/.config/nvim/lua/lsp/rust-ls.lua
